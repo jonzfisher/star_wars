@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  hilt_id: 1
+  length: 1
+  color: MyString
+
+two:
+  hilt_id: 1
+  length: 1
+  color: MyString
